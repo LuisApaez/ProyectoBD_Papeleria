@@ -1,5 +1,13 @@
 # Proyecto Base De Datos
 
+<ul>
+  <li><a href="#Descripcion">Descipción</a></li>
+  
+  <li><a href="#Implementacion">Implementación</a></li>
+</ul>
+
+---
+## Descripción <a id="Descripcion"></a>
 A lo largo de este proyecto se busca implementar una base de datos para modelar
 el flujo de trabajo en una papelería, así como el proceso de venta de productos 
 y el control del almacén. Para ello, se comienza realizando un estudio de 
@@ -49,3 +57,4 @@ utilizaremos SQL en PostgreSQL. Para ello
 
   [Script: Inserciones](Inserciones.sql)
 
+## Implementación <a href="Implementacion"></a>
