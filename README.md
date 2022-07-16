@@ -11,7 +11,7 @@
 A lo largo de este proyecto se busca implementar una base de datos para modelar
 el flujo de trabajo en una papelería, así como el proceso de venta de productos 
 y el control del almacén. Para ello, se comienza realizando un estudio de 
-*análisis de requerimientos* para capturar las necesidades y problemas que busca solucionar
+*análisis de requerimientos* para capturar las necesidades y problemas que se busca solucionar
 la papelería.
 
 [Archivo: Análsis de requerimientos](Analisis_De_Requerimientos.pdf)
