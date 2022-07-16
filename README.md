@@ -22,7 +22,7 @@ diagrama entidad relación.
 
 Continuando, llevamos la estrcutura del diagrama entidad relación al diagrama relacional
 
-[Archivo: Diagrama relaciona](Diagrama_Relacional.pdf)
+[Archivo: Diagrama relacional](Diagrama_Relacional.pdf)
 
 Después, se procede a normalizar cada una de las tablas, para lo cual se explica brevemente el proceso de normalización
 utilizando dependencias funcionales y las primeras tres formas normales, además de utilizar la forma normal de Boyce Codd. 
@@ -39,13 +39,13 @@ utilizaremos SQL en PostgreSQL. Para ello
 
 1. Creación de las tablas:
 
-[Script: Creación de las tablas](Crea_Tablas.sql)
+  [Script: Creación de las tablas](Crea_Tablas.sql)
 
 2. Integridad:
 
-[Script: Implementación de restricciones](Crea_Integridad.sql)
+  [Script: Implementación de restricciones](Crea_Integridad.sql)
 
 3. Inserción de datos. Para este punto generamos datos aleatorios utilizando la página web [mockaroo](https://www.mockaroo.com/).
 
-[Script: Inserciones](Inserciones.sql)
+  [Script: Inserciones](Inserciones.sql)
 
