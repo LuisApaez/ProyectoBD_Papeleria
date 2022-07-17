@@ -3,7 +3,7 @@
 <ul>
   <li><a href="#Descripcion">Descipción</a></li>
   
-  <li><a href="#Implementacion">Implementación</a></li>
+  <li><a href="#Implementacion">Programación SQL</a></li>
 </ul>
 
 ---
@@ -57,4 +57,36 @@ utilizaremos SQL en PostgreSQL. Para ello
 
   [Script: Inserciones](Inserciones.sql)
 
-## Implementación <a id="Implementacion"></a>
+## Programación SQL <a id="Implementacion"></a>
+
+Utilizando la base de datos creada anteriormente, implementaremos algunas sentencias SQL en ella.
+
+1. Consultas básicas utilizando la cláusula ``WHERE``.
+
+[Script: Consultas básicas](Where_Update_Delete/ConsultasWhere.sql)
+
+2. Actualización y eliminación de información utilizando ``UPDATE`` y ``DELETE``. 
+
+[Script: Actualizaciones](Where_Update_Delete/Update.sql)
+
+[Script: Eliminaciones](Where_Update_Delete/deletes.sql)
+
+3. Paginación y uniones de tablas (joins).
+
+[Script: Paginación y Joins](Paginacion_y_Joins.sql)
+
+4. Consultas avanzadas utilizando uniones.
+
+[Script: Consultas avanzadas](Consultas_Avanzadas.sql)
+
+5. Consultas avanzadas utilizando tablas de referencia cruzada.
+
+[Script: Crosstab en PostgreSQL]()
+
+6. Índices y expresiones comunes de tabla (o CTEs).
+
+[Script: Índices y CTEs](Indices_y_ctes.sql)
+
+7. Procedimientos almacenados o SP (Storage Procedure)
+
+[Script: SP](Procedimientos_Almacenados.sql)
