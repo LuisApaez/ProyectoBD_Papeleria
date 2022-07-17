@@ -60,7 +60,7 @@ utilizaremos SQL en PostgreSQL. Para ello
 ## Programación SQL <a id="Implementacion"></a>
 
 Utilizando la base de datos creada anteriormente, implementaremos algunas sentencias SQL en ella, las cuales abarcan temas
-desde consulas básicas, subconsultas, joins, consultas avanzadas, crosstab, vistas, índices, funciones de ventana y procedimeintos almacenados.
+desde consultas básicas, subconsultas, joins, consultas avanzadas, crosstab, vistas, índices, funciones de ventana y procedimeintos almacenados.
 
 1. Consultas básicas utilizando la cláusula ``WHERE``.
 
