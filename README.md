@@ -80,10 +80,6 @@ desde consultas básicas, subconsultas, joins, consultas avanzadas, crosstab, vi
 
 [Script: Consultas avanzadas](Consultas_Avanzadas.sql)
 
-5. Consultas avanzadas utilizando tablas de referencia cruzada.
-
-[Script: Crosstab en PostgreSQL]()
-
 6. Índices y expresiones comunes de tabla (o CTEs).
 
 [Script: Índices y CTEs](Indices_y_ctes.sql)
