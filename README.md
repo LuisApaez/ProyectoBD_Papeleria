@@ -80,10 +80,10 @@ desde consultas básicas, subconsultas, joins, consultas avanzadas, crosstab, vi
 
 [Script: Consultas avanzadas](Consultas_Avanzadas.sql)
 
-6. Índices y expresiones comunes de tabla (o CTEs).
+5. Índices y expresiones comunes de tabla (o CTEs).
 
 [Script: Índices y CTEs](Indices_y_ctes.sql)
 
-7. Procedimientos almacenados o SP (Storage Procedure)
+6. Procedimientos almacenados o SP (Storage Procedure)
 
 [Script: SP](Procedimientos_Almacenados.sql)
