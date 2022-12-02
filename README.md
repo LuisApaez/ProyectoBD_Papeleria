@@ -17,7 +17,7 @@ la papelería.
 [Archivo: Análsis de requerimientos](Analisis_De_Requerimientos.pdf)
 
 Posteriormente, con base en lo recabado en el análisis de requerimientos, creamos una lista 
-de tablas candidatas. Esta lista describe cada una de las tablas que planeamos modelar, incluyendo los atributos de cada y los tipos de datos correspondientes.
+de tablas candidatas. Esta lista describe cada una de las tablas que planeamos modelar, incluyendo los atributos de cada una y los tipos de datos correspondientes.
 
 [Archivo: Listado descriptivo](Listado_Descriptivo_Tablas.pdf)
 
@@ -28,7 +28,7 @@ diagrama entidad relación.
 
 [Link: Diagrama entidad relación en Miro](https://miro.com/app/board/o9J_lqlra88=/?share_link_id=144839627601)
 
-Continuando, llevamos la estrcutura del diagrama entidad relación al diagrama relacional
+Continuando, llevamos la estructura del diagrama entidad relación al diagrama relacional
 
 [Archivo: Diagrama relacional](Diagrama_Relacional.pdf)
 
